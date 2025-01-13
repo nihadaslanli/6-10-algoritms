@@ -30,14 +30,42 @@
 //  }
 //Console.WriteLine(sum);
 #endregion
-#region task5
-int num =int.Parse(Console.ReadLine());
-for (int i = 1; i <= 1000; i++)
-{
-    double kok=Math.Sqrt(i);
-    int tamKok = (int)kok;  
+#region task4
+//string s =Console.ReadLine();
+//int  vowelcount = 0;
+//for (int i = 0; i < s.Length; i++)
+//{
+//    char c = s[i];
+//    {
 
-    if (tamKok == kok)
-    Console.WriteLine(i);
-}
+//        switch (c)
+//        {
+//            case 'a':
+//            case 'e':
+//            case 'i':
+//            case 'u':
+//            case 'o':   
+//            case 'ü':
+//            case 'ö':
+//            case 'ı':
+//            case 'ə':
+
+//                vowelcount++;
+//                break;
+//                default:
+//                break;
+//        }
+//    }
+//}
+//    Console.WriteLine(vowelcount);
+#endregion
+#region task5
+//for (int i = 1; i <= 1000; i++)
+//{
+//    double kok=Math.Sqrt(i);
+//    int tamKok = (int)kok;  
+
+//    if (tamKok == kok)
+//    Console.WriteLine(i);
+//}
 #endregion
